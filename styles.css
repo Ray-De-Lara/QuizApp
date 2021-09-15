@@ -47,3 +47,9 @@ button {
   font-family: "Courier New", Courier, monospace;
   padding: 1.3rem;
 }
+
+@media (max-width: 720px) {
+  .container {
+    width: 350px;
+  }
+}
